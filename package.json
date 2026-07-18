@@ -1,6 +1,6 @@
 {
-  "name": "opencode-mem",
-  "version": "2.19.4",
+  "name": "@gcszhn/opencode-mem",
+  "version": "2.19.5",
   "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
   "type": "module",
   "main": "dist/plugin.js",
@@ -41,7 +41,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tickernelz/opencode-mem.git"
+    "url": "git+https://github.com/GCS-ZHN/opencode-mem.git"
   },
   "publishConfig": {
     "access": "public"
