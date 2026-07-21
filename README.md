@@ -45,7 +45,7 @@ Add to your OpenCode configuration at `~/.config/opencode/opencode.json`:
 
 ```jsonc
 {
-  "plugin": ["opencode-mem"],
+  "plugin": ["@gcszhn/opencode-mem"], // my fork version release
 }
 ```
 
